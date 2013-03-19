@@ -1,4 +1,6 @@
-datomical
-=========
-
-datomic entity rest server and client model gen tool
+	 ┌──┐    ┌─┐   ╶─┬──  ┌───┐  ┌─┬─┐  ╶─┬──  ┌────   ┌─┐   ╷                                                                             
+	 │  └┐  ┌┘ └┐    │    │   │ ┌┘ │ └┐   │    │      ┌┘ └┐  │                                                                             
+	 │   │  ├───┤    │    │   │ │  │  │   │    │      ├───┤  │                                                                             
+	 │  ┌┘  │   │    │    │   │ │     │   │    │      │   │  │                                                                             
+ 	 └──┘   ╵   ╵    ╵    └───┘ ╵     ╵ ╶─┴──  └────  ╵   ╵  └────   
+ 	 d  a  t  o  m  i  c    a  c  c  e  s  s    l  i  b  r  a  r  y
